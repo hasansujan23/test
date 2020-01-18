@@ -19,3 +19,6 @@ int div(int a,int b){
 int divdiv(int a,int b){
 	return a/b;
 }
+string ffgetName(string name){
+	return name;
+}
