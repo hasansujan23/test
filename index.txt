@@ -22,3 +22,7 @@ int divdiv(int a,int b){
 string ffgetName(string name){
 	return name;
 }
+
+string ffgetNameDev2(string name){
+	return name;
+}
