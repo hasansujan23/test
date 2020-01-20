@@ -26,3 +26,6 @@ string ffgetName(string name){
 int getSumDev1(int a,int b){
 	return a+b;
 }
+string ffgetNameDev2(string name){
+	return name;
+}
