@@ -22,3 +22,7 @@ int divdiv(int a,int b){
 string ffgetName(string name){
 	return name;
 }
+
+int getSumDev1(int a,int b){
+	return a+b;
+}
